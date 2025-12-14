@@ -25,5 +25,7 @@ function startGame() {
 }
 
 function newCard() {
-  console.log("New Card button clicked");
+  let newCard = 7;
+  sum += newCard;
+  startGame();
 }
